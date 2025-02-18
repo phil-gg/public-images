@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg viewBox="124 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="124 0 72 72" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <!-- Open in GIMP and export to PNG as 1440 px square with 360 pixels/in -->
   <defs>
+    <path id="logo-outline" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
     <style>
       .white-bg0 {fill:#fff;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:0.125;stroke-width:1.5}
       .white-bg1 {fill:#fff;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:0.217;stroke-width:1.3}
@@ -23,17 +24,17 @@
   </defs>
   <rect width="72" height="72" x="124" y="0" fill="#fff" fill-opacity="0" />
   <g id="logo-bg">
-    <path class="white-bg0" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
-    <path class="white-bg1" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
-    <path class="white-bg2" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
-    <path class="white-bg3" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
-    <path class="white-bg4" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
-    <path class="white-bg5" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
-    <path class="white-bg6" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
-    <path class="white-bg7" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
+    <use class="white-bg0" href="#logo-outline" xlink:href="#logo-outline" />
+    <use class="white-bg1" href="#logo-outline" xlink:href="#logo-outline" />
+    <use class="white-bg2" href="#logo-outline" xlink:href="#logo-outline" />
+    <use class="white-bg3" href="#logo-outline" xlink:href="#logo-outline" />
+    <use class="white-bg4" href="#logo-outline" xlink:href="#logo-outline" />
+    <use class="white-bg5" href="#logo-outline" xlink:href="#logo-outline" />
+    <use class="white-bg6" href="#logo-outline" xlink:href="#logo-outline" />
+    <use class="white-bg7" href="#logo-outline" xlink:href="#logo-outline" />
   </g>
   <g id="logo">
-    <path class="logoblue1" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0h-11v27h11z" />
+    <use class="logoblue1" href="#logo-outline" xlink:href="#logo-outline" />
     <path class="logoblue6" d="m127.5 22.5h27v11l-8 8zm0 27h19v19zm19 19h27l-13.5-13.5z" />
     <path class="logoblue7" d="m127.5 22.5l19 19v8h-19zm19 27h8l5.5 5.5-13.5 13.5z" />
     <path class="logoblue5" d="M165.5 22.5h8v8l-8 8zm-11 11v16h-8v-8z" />
