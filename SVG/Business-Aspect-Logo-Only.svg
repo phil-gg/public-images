@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg viewBox="124 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<!-- Open in GIMP and export to PNG as 1440 px square with 360 pixels/in -->
+  <defs>
+    <style>
+      .white-bg0 {fill:#fff;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:0.125;stroke-width:1.5}
+      .white-bg1 {fill:#fff;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:0.217;stroke-width:1.3}
+      .white-bg2 {fill:#fff;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:0.279;stroke-width:1.1}
+      .white-bg3 {fill:#fff;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:0.331;stroke-width:0.9}
+      .white-bg4 {fill:#fff;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:0.375;stroke-width:0.7}
+      .white-bg5 {fill:#fff;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:0.415;stroke-width:0.5}
+      .white-bg6 {fill:#fff;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:0.451;stroke-width:0.3}
+      .white-bg7 {fill:#fff;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:1;stroke-width:0.1}
+      .textblue0 {fill:#04202e;fill-opacity:1;stroke:#fff;stroke:none}
+      .logoblue1 {fill:#92d2f3;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:1;stroke-width:0.01}
+      .logoblue2 {fill:#73adde;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:1;stroke-width:0.02}
+      .logoblue3 {fill:#58c8df;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:1;stroke-width:0.02}
+      .logoblue4 {fill:#00aeef;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:1;stroke-width:0.03}
+      .logoblue5 {fill:#0072bc;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:1;stroke-width:0.03}
+      .logoblue6 {fill:#03428e;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:1;stroke-width:0.01}
+      .logoblue7 {fill:#001c54;fill-opacity:1;stroke:#fff;stroke-linecap:square;stroke-linejoin:arcs;stroke-opacity:1;stroke-width:0.02}
+    </style>
+  </defs>
+  <rect width="72" height="72" x="124" y="0" fill="#fff" fill-opacity="0" />
+  <g id="logo-bg">
+    <path class="white-bg0" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
+    <path class="white-bg1" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
+    <path class="white-bg2" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
+    <path class="white-bg3" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
+    <path class="white-bg4" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
+    <path class="white-bg5" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
+    <path class="white-bg6" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
+    <path class="white-bg7" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0-11 11v16l11-11z" />
+  </g>
+  <g id="logo">
+    <path class="logoblue1" d="m127.5 22.5 19-19h27l19 19v27l-19 19h-27l-19-19zm38 0h-11v27h11z" />
+    <path class="logoblue6" d="m127.5 22.5h27v11l-8 8zm0 27h19v19zm19 19h27l-13.5-13.5z" />
+    <path class="logoblue7" d="m127.5 22.5l19 19v8h-19zm19 27h8l5.5 5.5-13.5 13.5z" />
+    <path class="logoblue5" d="M165.5 22.5h8v8l-8 8zm-11 11v16h-8v-8z" />
+    <path class="logoblue2" d="m154.5 22.5l5.5-5.5l5.5 5.5-11 11zm19 0h19v27l-19-19zm19 27h-27l-5.5 5.5l13.5 13.5z" />
+    <path class="logoblue3" d="m127.5 22.5l19-19l13.5 13.5l-5.5 5.5zm38 16v11l-5.5 5.5l-5.5-5.5z" />
+    <path class="logoblue4" d="m173.5 3.5v19h-8l-5.5-5.5z" />
+  </g>
+</svg>
