@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg role="img" viewBox="0.465 0.532 1.07 1.07" xmlns="http://www.w3.org/2000/svg">
+  <title>Reuleaux Triangle with rounded corners</title>
+  <path id="reuleaux-triangle"
+        d="m0.475 1.433
+           a1.025 1.025 0 0 1 0.5125-0.8875
+           a0.025 0.025 0 0 1 0.025 0
+           a1.025 1.025 0 0 1 0.5125 0.8875
+           a0.025 0.025 0 0 1 -0.0125 0.0215
+           a1.025 1.025 0 0 1 -1.025 0
+           a0.025 0.025 0 0 1 -0.0125-0.0215
+           z"/>
+  <defs>
+    <g id="construction-geometry">
+      <path fill="#333" d="m0.5 1.433l0.5125-0.8875a1.025 1.025 0 0 1 0.5125 0.8875z"/>
+      <path fill="#333" d="m1 0.567l0.5125 0.8875a1.025 1.025 0 0 1 -1.025 0z"/>
+      <path fill="#333" d="m1.5 1.433h-1.025a1.025 1.025 0 0 1 0.5125-0.8875z"/>
+      <path fill="#999" d="m1.0125 0.5455l0.5125 0.8875-0.0125 0.0215h-1.025l-0.0125-0.0215 0.5125-0.8875z"/>
+      <circle fill="#666" cx="1" cy="0.567" r="0.025"/>
+      <circle fill="#666" cx="0.5" cy="1.433" r="0.025"/>
+      <circle fill="#666" cx="1.5" cy="1.433" r="0.025"/>
+      <path fill="#999" d="m1 0.567l0.0125 -0.0215h-0.025z"/>
+      <path fill="#999" d="m0.5 1.433h-0.025l0.0125 0.0215z"/>
+      <path fill="#999" d="m1.5 1.433h0.025l-0.0125 0.0215z"/>
+      <path fill="#ccc" d="m1 0.567l0.5 0.866h-1z"/>
+    </g>
+  </defs>
+</svg>
