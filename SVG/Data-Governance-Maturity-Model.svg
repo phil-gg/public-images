@@ -1,4 +1,4 @@
-<svg viewBox="-8 -8 3381 1639"
+<svg viewBox="-3 -16 3384 1645"
 	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden">
 	<defs>
@@ -162,7 +162,7 @@
 			<rect x="1263" y="1488" width="72" height="105"/>
 		</clipPath>
 	</defs>
-	<rect fill="#FFFFFF" x="-8" y="-8" width="3381" height="1639"/>
+	<rect fill="#FFFFFF" x="-3" y="-16" width="3384" height="1645"/>
 	<g transform="translate(-221 -428)">
 		<rect x="812.5" y="1812.5" width="454" height="195" fill="url(#fill0)"/>
 		<path d="M780 1780 1299 1780 1266.5 1812.5 812.5 1812.5Z" fill="url(#fill1)" fill-rule="evenodd"/>
