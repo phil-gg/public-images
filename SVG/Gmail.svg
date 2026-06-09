@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <g transform="translate(-200 -392)">
+    <defs>
+      <radialGradient id="zzz"
+                      cx="233"
+                      cy="413"
+                      r="10"
+                      gradientUnits="userSpaceOnUse">
+        <stop offset="50%" stop-color="#34a853"/>
+        <stop offset="85%" stop-color="#ea4335"/>
+      </radialGradient>
+      <radialGradient id="aaa"
+                      cx="234"
+                      cy="422"
+                      r="10"
+                      gradientUnits="userSpaceOnUse">
+        <stop offset="60%" stop-color="#4285f4" stop-opacity="1"/>
+        <stop offset="95%" stop-color="#4285f4" stop-opacity="0"/>
+      </radialGradient>
+      <linearGradient id="bbb"
+                      x1="224"
+                      y1="423.5"
+                      x2="229"
+                      y2="423.5"
+                      gradientUnits="userSpaceOnUse">
+        <stop offset="20%" stop-color="#a50e0e"/>
+        <stop offset="80%" stop-color="#174ea6"/>
+      </linearGradient>
+      <linearGradient id="ccc"
+                      x1="0"
+                      y1="423"
+                      x2="0"
+                      y2="421"
+                      gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="#fff"/>
+        <stop offset="100%" stop-color="#000"/>
+      </linearGradient>
+      <mask id="ddd">
+        <rect fill="url(#ccc)" x="209" y="421" width="22" height="3"/>
+      </mask>
+      <linearGradient id="eee"
+                      x1="234"
+                      y1="418.5"
+                      x2="234"
+                      y2="423.5"
+                      gradientUnits="userSpaceOnUse"
+                      gradientTransform="translate(234, 0) scale(0.5, 1) translate(-234, 0)">
+        <stop offset="50%" stop-color="#4285f4"/>
+        <stop offset="90%" stop-color="#174ea6"/>
+      </linearGradient>
+      <radialGradient id="fff"
+                      cx="231.5"
+                      cy="418.5"
+                      r="5"
+                      gradientUnits="userSpaceOnUse">
+        <stop offset="50%" stop-color="#4285f4"/>
+        <stop offset="90%" stop-color="#174ea6"/>
+      </radialGradient>
+      <clipPath id="ggg">
+        <rect x="230.5" y="419" width="5.5" height="5.1"/>
+      </clipPath>
+      <linearGradient id="hhh"
+                      x1="210"
+                      y1="418.5"
+                      x2="210"
+                      y2="423.5"
+                      gradientUnits="userSpaceOnUse">
+        <stop offset="50%" stop-color="#ea4335"/>
+        <stop offset="90%" stop-color="#a50e0e"/>
+      </linearGradient>
+      <radialGradient id="iii"
+                      cx="208.5"
+                      cy="418.5"
+                      r="5"
+                      gradientUnits="userSpaceOnUse">
+        <stop offset="50%" stop-color="#ea4335"/>
+        <stop offset="90%" stop-color="#a50e0e"/>
+      </radialGradient>
+      <clipPath id="jjj">
+        <rect x="204" y="419" width="5.5" height="5.1"/>
+      </clipPath>
+      <radialGradient id="kkk"
+                      cx="235.5"
+                      cy="400.5"
+                      r="10"
+                      gradientUnits="userSpaceOnUse">
+        <stop offset="60%" stop-color="#fbbc04" stop-opacity="1"/>
+        <stop offset="75%" stop-color="#fbbc04" stop-opacity="0.8"/>
+        <stop offset="115%" stop-color="#fbbc04" stop-opacity="0"/>
+      </radialGradient>
+      <radialGradient id="lll"
+                      cx="204.5"
+                      cy="400.5"
+                      r="10"
+                      gradientUnits="userSpaceOnUse">
+        <stop offset="60%" stop-color="#ff33b1" stop-opacity="1"/>
+        <stop offset="85%" stop-color="#ff33b1" stop-opacity="0.8"/>
+        <stop offset="130%" stop-color="#ff33b1" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect fill="#fff" x="202" y="398" width="36" height="28.1" rx="7"/>
+    <path fill="url(#zzz)" d="m204 405c0-2 3-5 5-5h22c2 0 5 3 5 5v14a5 5 0 0 1-5 5h-22a5 5 0 0 1-5-5zm4 13c0 1.2 0.8 2 2 2h1c0.6 0 1-0.4 1-1v-9.25l7.2 5.9q0.8 0.7 1.6 0l7.2-5.9v9.25c0 0.6 0.4 1 1 1h1c1.2 0 2-0.8 2-2v-12.008c0-1.75-1.9-2.59-3.25-1.5l-8.75 7.25-8.75-7.25c-1.35-1.1-3.25-0.25-3.25 1.5z"/>
+    <path fill="url(#aaa)" d="m230 420c1.2 0 2-0.8 2-2v-6h4v7l-5 5h-7v-10h4v5c0 0.6 0.4 1 1 1z"/>
+    <rect fill="url(#bbb)" mask="url(#ddd)" x="209" y="421" width="22" height="3"/>
+    <rect fill="url(#bbb)" x="209" y="423" width="22" height="1.1"/>
+    <path fill="url(#eee)" d="m236 418v1a5 5 0 0 1-5 5h-2.497v-4h1.497c1.2 0 2-0.8 2-2z"/>
+    <path fill="url(#fff)" clip-path="url(#ggg)" d="m231.5 421a4.5 2.5 0 0 0 4.5-2.5v0.6a5 5 0 0 1-5 5l-1.1-1.1h1.6z"/>
+    <path fill="url(#hhh)" d="m208 418c0 1.2 0.8 2 2 2h14.497v4h-15.497a5 5 0 0 1-5-5v-1z"/>
+    <path fill="url(#iii)" clip-path="url(#jjj)" d="m204 418.5a4.5 2.5 0 0 0 4.5 2.5v2h1.6l-1.1 1.1a5 5.1 0 0 1-5-5.1z"/>
+    <path fill="url(#kkk)" d="m220 400h11a5 5 0 0 1 5 5v7h-4v-6.008c0-1.75-1.9-2.59-3.25-1.5l-8.75 7.25z"/>
+    <path fill="url(#lll)" d="m220 400h-11a5 5 0 0 0-5 5v7h4v-6.008c0-1.75 1.9-2.59 3.25-1.5l8.75 7.25z"/>
+    <path fill="#fff" d="m230 420c1.2 0 2-0.8 2-2v-12.008c0-1.75-1.9-2.59-3.25-1.5l-8.75 7.25-8.75-7.25c-1.35-1.1-3.25-0.25-3.25 1.5v12.008c0 1.2 0.8 2 2 2h1c0.6 0 1-0.4 1-1v-9.25l7.2 5.9q0.8 0.7 1.6 0l7.2-5.9v9.25c0 0.6 0.4 1 1 1z"/>
+  </g>
+</svg>
