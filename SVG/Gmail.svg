@@ -26,11 +26,20 @@
         <stop offset="20%" stop-color="#a50e0e"/>
         <stop offset="80%" stop-color="#174ea6"/>
       </linearGradient>
+<!--gradients gr through gz-->
+<!--9x gradient runs at 0, 0.25, 0.5, ..., 1.75, 2-->
+<!--    masks mr through mz-->
+<!--0.5 high rectangles that translate down 0.25 each time-->
+<!-- -0.25 to -0.2  transparent-->
+<!-- -0.2  to -0.05 gradient   -->
+<!-- -0.05 to  0.05 opaque     -->
+<!--  0.05 to  0.2  gradient   -->
+<!--  0.2  to  0.25 transparent-->
       <linearGradient id="d"
                       x1="0"
                       y1="423"
                       x2="0"
-                      y2="421.05"
+                      y2="421"
                       gradientUnits="userSpaceOnUse">
         <stop offset="0%" stop-color="#fff"/>
         <stop offset="100%" stop-color="#000"/>
