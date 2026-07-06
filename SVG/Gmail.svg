@@ -58,23 +58,14 @@
       <clipPath id="h">
         <rect x="204" y="419" width="5.5" height="5.1"/>
       </clipPath>
-      <linearGradient id="gr"
-                      x1="224"
-                      y1="421"
-                      x2="229"
-                      y2="421"
-                      gradientUnits="userSpaceOnUse">
-        <stop offset="10%" stop-color="#ea4335"/>
-        <stop offset="85%" stop-color="#4285f4"/>
-      </linearGradient>
       <linearGradient id="gs"
                       x1="224"
                       y1="421.25"
                       x2="229"
                       y2="421.25"
                       gradientUnits="userSpaceOnUse">
-        <stop offset="10%" stop-color="#e13c30"/>
-        <stop offset="85%" stop-color="#3d7eea"/>
+        <stop offset="10.59%" stop-color="#e13c30"/>
+        <stop offset="80.94%" stop-color="#3d7eea"/>
       </linearGradient>
       <linearGradient id="gt"
                       x1="224"
@@ -82,8 +73,8 @@
                       x2="229"
                       y2="421.5"
                       gradientUnits="userSpaceOnUse">
-        <stop offset="10%" stop-color="#d9362b"/>
-        <stop offset="85%" stop-color="#3777e1"/>
+        <stop offset="10.26%" stop-color="#d9362b"/>
+        <stop offset="80.42%" stop-color="#3777e1"/>
       </linearGradient>
       <linearGradient id="gu"
                       x1="224"
@@ -91,8 +82,8 @@
                       x2="229"
                       y2="421.75"
                       gradientUnits="userSpaceOnUse">
-        <stop offset="10%" stop-color="#d02f26"/>
-        <stop offset="85%" stop-color="#3270d7"/>
+        <stop offset="10.07%" stop-color="#d02f26"/>
+        <stop offset="80.1%" stop-color="#3270d7"/>
       </linearGradient>
       <linearGradient id="gv"
                       x1="224"
@@ -101,7 +92,7 @@
                       y2="422"
                       gradientUnits="userSpaceOnUse">
         <stop offset="10%" stop-color="#c82922"/>
-        <stop offset="85%" stop-color="#2d6acd"/>
+        <stop offset="80%" stop-color="#2d6acd"/>
       </linearGradient>
       <linearGradient id="gw"
                       x1="224"
@@ -109,8 +100,8 @@
                       x2="229"
                       y2="422.25"
                       gradientUnits="userSpaceOnUse">
-        <stop offset="10%" stop-color="#bf221d"/>
-        <stop offset="85%" stop-color="#2763c3"/>
+        <stop offset="10.07%" stop-color="#bf221d"/>
+        <stop offset="80.1%" stop-color="#2763c3"/>
       </linearGradient>
       <linearGradient id="gx"
                       x1="224"
@@ -118,8 +109,8 @@
                       x2="229"
                       y2="422.5"
                       gradientUnits="userSpaceOnUse">
-        <stop offset="10%" stop-color="#b61b18"/>
-        <stop offset="85%" stop-color="#225cba"/>
+        <stop offset="10.26%" stop-color="#b61b18"/>
+        <stop offset="80.42%" stop-color="#225cba"/>
       </linearGradient>
       <linearGradient id="gy"
                       x1="224"
@@ -127,8 +118,8 @@
                       x2="229"
                       y2="422.75"
                       gradientUnits="userSpaceOnUse">
-        <stop offset="10%" stop-color="#ae1513"/>
-        <stop offset="85%" stop-color="#1c55b0"/>
+        <stop offset="10.59%" stop-color="#ae1513"/>
+        <stop offset="80.94%" stop-color="#1c55b0"/>
       </linearGradient>
       <linearGradient id="gz"
                       x1="224"
@@ -136,17 +127,8 @@
                       x2="229"
                       y2="423"
                       gradientUnits="userSpaceOnUse">
-        <stop offset="10%" stop-color="#a50e0e"/>
-        <stop offset="85%" stop-color="#174ea6"/>
-      </linearGradient>
-      <linearGradient id="ar"
-                      x1="228.5"
-                      y1="420.75"
-                      x2="228.5"
-                      y2="421.25"
-                      gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#000"/>
-        <stop offset="50%" stop-color="#fff"/>
+        <stop offset="11.06%" stop-color="#a50e0e"/>
+        <stop offset="81.68%" stop-color="#174ea6"/>
       </linearGradient>
       <linearGradient id="as"
                       x1="228"
@@ -220,32 +202,29 @@
         <stop offset="0%" stop-color="#000"/>
         <stop offset="50%" stop-color="#fff"/>
       </linearGradient>
-      <mask id="mr">
-        <rect fill="url(#ar)" x="224" y="420.75" width="5" height="0.5"/>
-      </mask>
       <mask id="ms">
-        <rect fill="url(#as)" x="224" y="421" width="5" height="0.5"/>
+        <rect fill="url(#as)" x="224" y="420.5" width="5" height="3"/>
       </mask>
       <mask id="mt">
-        <rect fill="url(#at)" x="224" y="421.25" width="5" height="0.5"/>
+        <rect fill="url(#at)" x="224" y="420.5" width="5" height="3"/>
       </mask>
       <mask id="mu">
-        <rect fill="url(#au)" x="224" y="421.5" width="5" height="0.5"/>
+        <rect fill="url(#au)" x="224" y="420.5" width="5" height="3"/>
       </mask>
       <mask id="mv">
-        <rect fill="url(#av)" x="224" y="421.75" width="5" height="0.5"/>
+        <rect fill="url(#av)" x="224" y="420.5" width="5" height="3"/>
       </mask>
       <mask id="mw">
-        <rect fill="url(#aw)" x="224" y="422" width="5" height="0.5"/>
+        <rect fill="url(#aw)" x="224" y="420.5" width="5" height="3"/>
       </mask>
       <mask id="mx">
-        <rect fill="url(#ax)" x="224" y="422.25" width="5" height="0.5"/>
+        <rect fill="url(#ax)" x="224" y="420.5" width="5" height="3"/>
       </mask>
       <mask id="my">
-        <rect fill="url(#ay)" x="224" y="422.5" width="5" height="0.5"/>
+        <rect fill="url(#ay)" x="224" y="420.5" width="5" height="3"/>
       </mask>
       <mask id="mz">
-        <rect fill="url(#az)" x="224" y="422.75" width="5" height="0.5"/>
+        <rect fill="url(#az)" x="224" y="420.5" width="5" height="3"/>
       </mask>
       <radialGradient id="i"
                       cx="235.5"
@@ -267,22 +246,21 @@
       </radialGradient>
     </defs>
     <rect fill="#fff" x="202" y="398" width="36" height="28.1" rx="7"/>
-    <path fill="url(#a)" d="m204 405c0-2 3-5 5-5h22c2 0 5 3 5 5v14a5 5 0 0 1-5 5h-22a5 5 0 0 1-5-5zm4 13c0 1.2 0.8 2 2 2h1c0.6 0 1-0.4 1-1v-9.25l7.2 5.9q0.8 0.7 1.6 0l7.2-5.9v9.25c0 0.6 0.4 1 1 1h1c1.2 0 2-0.8 2-2v-12.008c0-1.75-1.9-2.59-3.25-1.5l-8.75 7.25-8.75-7.25c-1.35-1.1-3.25-0.25-3.25 1.5z"/>
-    <path fill="url(#b)" d="m230 420c1.2 0 2-0.8 2-2v-6h4v7l-5 5h-7v-10h4v5c0 0.6 0.4 1 1 1z"/>
+    <path fill="url(#a)" d="m204 405c0-2 3-5 5-5h22c2 0 5 3 5 5v14c0 2-3 5-5 5h-22a5 5 0 0 1-5-5zm4 13c0 1.2 0.8 2 2 2h1c0.6 0 1-0.4 1-1v-9.25l7.2 5.9q0.8 0.7 1.6 0l7.2-5.9v9.25c0 0.6 0.4 1 1 1h1c1.2 0 2-0.8 2-2v-12.008c0-1.75-1.9-2.59-3.25-1.5l-8.75 7.25-8.75-7.25c-1.35-1.1-3.25-0.25-3.25 1.5z"/>
+    <path fill="url(#b)" d="m230 420c1.2 0 2-0.8 2-2v-6h4v7a5 5 0 0 1-5 5h-7v-10h4v5c0 0.6 0.4 1 1 1z"/>
+    <rect fill="url(#gs)" mask="url(#ms)" x="224" y="420.5" width="5" height="3"/>
+    <rect fill="url(#gt)" mask="url(#mt)" x="224" y="420.5" width="5" height="3"/>
+    <rect fill="url(#gu)" mask="url(#mu)" x="224" y="420.5" width="5" height="3"/>
+    <rect fill="url(#gv)" mask="url(#mv)" x="224" y="420.5" width="5" height="3"/>
+    <rect fill="url(#gw)" mask="url(#mw)" x="224" y="420.5" width="5" height="3"/>
+    <rect fill="url(#gx)" mask="url(#mx)" x="224" y="420.5" width="5" height="3"/>
+    <rect fill="url(#gy)" mask="url(#my)" x="224" y="420.5" width="5" height="3"/>
+    <rect fill="url(#gz)" mask="url(#mz)" x="224" y="420.5" width="5" height="3"/>
     <path fill="url(#c)" d="m236 418v1a5 5 0 0 1-5 5h-2.497v-4h1.497c1.2 0 2-0.8 2-2z"/>
     <path fill="url(#d)" d="m208 418c0 1.2 0.8 2 2 2h14.497v4h-15.497a5 5 0 0 1-5-5v-1z"/>
     <path fill="url(#e)" clip-path="url(#f)" d="m231.5 421a4.5 2.5 0 0 0 4.5-2.5v0.6a5 5 0 0 1-5 5l-1.1-1.1h1.6z"/>
     <path fill="url(#g)" clip-path="url(#h)" d="m204 418.5a4.5 2.5 0 0 0 4.5 2.5v2h1.6l-1.1 1.1a5 5.1 0 0 1-5-5.1z"/>
     <rect fill="url(#gz)" x="209" y="423" width="22" height="1.1"/>
-    <rect fill="url(#gr)" mask="url(#mr)" x="224" y="420.75" width="5" height="0.5"/>
-    <rect fill="url(#gs)" mask="url(#ms)" x="224" y="421"    width="5" height="0.5"/>
-    <rect fill="url(#gt)" mask="url(#mt)" x="224" y="421.25" width="5" height="0.5"/>
-    <rect fill="url(#gu)" mask="url(#mu)" x="224" y="421.5"  width="5" height="0.5"/>
-    <rect fill="url(#gv)" mask="url(#mv)" x="224" y="421.75" width="5" height="0.5"/>
-    <rect fill="url(#gw)" mask="url(#mw)" x="224" y="422"    width="5" height="0.5"/>
-    <rect fill="url(#gx)" mask="url(#mx)" x="224" y="422.25" width="5" height="0.5"/>
-    <rect fill="url(#gy)" mask="url(#my)" x="224" y="422.5"  width="5" height="0.5"/>
-    <rect fill="url(#gz)" mask="url(#mz)" x="224" y="422.75" width="5" height="0.5"/>
     <path fill="url(#i)" d="m220 400h11a5 5 0 0 1 5 5v7h-4v-6.008c0-1.75-1.9-2.59-3.25-1.5l-8.75 7.25z"/>
     <path fill="url(#j)" d="m220 400h-11a5 5 0 0 0-5 5v7h4v-6.008c0-1.75 1.9-2.59 3.25-1.5l8.75 7.25z"/>
     <path fill="#fff" d="m230 420c1.2 0 2-0.8 2-2v-12.008c0-1.75-1.9-2.59-3.25-1.5l-8.75 7.25-8.75-7.25c-1.35-1.1-3.25-0.25-3.25 1.5v12.008c0 1.2 0.8 2 2 2h1c0.6 0 1-0.4 1-1v-9.25l7.2 5.9q0.8 0.7 1.6 0l7.2-5.9v9.25c0 0.6 0.4 1 1 1z"/>
