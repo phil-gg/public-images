@@ -1,0 +1,14 @@
+<svg version="1.1" viewBox="96 96 576 576" xmlns="http://www.w3.org/2000/svg">
+<rect x="96" y="96" width="576" height="576" fill="#012069"/>
+<circle cx="384" cy="384" r="272" fill="#012069"/>
+<circle cx="384" cy="384" r="224" fill="#c8102e"/>
+<!-- Rectangular flag (5:3 ratio)
+<rect x="24" y="168" width="720" height="432" fill="#fff"/>
+<path d="m24 444v-120h300v-156h120v156h300v120h-300v156h-120v-156z" fill="#c8102e"/>
+-->
+<clipPath id="roundflag">
+<circle cx="384" cy="384" r="224"/>
+</clipPath>
+<path d="m24 324v-156h300v156zm420 0v-156h300v156zm0 276v-156h300v156zm-420 0v-156h300v156z" fill="#fff" clip-path="url(#roundflag)"/>
+<path d="m344 208h80l-20 20v136h136l20-20v80l-20-20h-136v136l20 20h-80l20-20v-136h-136l-20 20v-80l20 20h136v-136z" fill="#fc0"/>
+</svg>
